@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "PlayJasim25.aternos.me",
+    "port": 17223,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
